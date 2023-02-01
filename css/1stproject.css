@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+
+}
+
+body{
+    background-image: url(/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  
+
+}
+
+.banner{
+
+    height: 10%;
+    width: 50%;
+    margin-top: 70px;
+    margin-left: 30px;
+    position: absolute;
+}
+#bannerdown{
+
+    border: 1px solid white;
+    height:40%;
+    width: 90%;
+    margin-top: 52%;
+    margin-left: 100px;
+    position: absolute;
+   
+    border-radius: 10px;
+    
+}
+#bannerdown  h1{
+color: rgb(255, 255, 255);
+font-size: large;
+}
+#bannerdown p{
+   margin-top:5% ;
+   position: absolute;
+margin-left: 48%;
+color: white;
+    }
+    #bannerdown h1{
+        margin-top:3% ;
+        position: absolute;
+     margin-left: 48%;
+         }
+.img1{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.img2{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 25%;
+}
+.img3{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 25%;
+}
+.img4{
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 2%;
+}
+
+.banner img{
+    
+    height: 400px;
+    width: 193.5%;
+    border-radius: 10px;
+    position: absolute;
+    
+}
+.heading{
+
+    text-transform: uppercase;
+    text-shadow: 2px 2px rgb(196, 163, 181);
+    text-align: left;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 10%;
+    font-size: 4em;
+    
+}
+
+.top-menu{
+    height: 5%;
+    width: 98%;
+    text-transform: uppercase;
+    background-color: white;
+    margin-top: 5px;
+    border: 0.5px solid rgba(255, 255, 255, 0);
+    margin-left:  10px;
+    position:absolute;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    font-size: xx-large;
+    float: left;
+    padding: 20px;
+    text-decoration: none;
+    
+}
+
+a{
+    text-decoration: none;
+     color: rgb(255, 255, 255);
+}
+li:hover{
+    background-color: rgb(0, 0, 0);
+}
+
+.box2{
+    
+    height: 50%;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px white;
+    margin-top: 26%;
+    margin-left: 30px;
+    position: absolute;
+
+}
+.box2 img{
+    
+    height: 50%;
+    width: 100%;
+    border: 3px solid rgb(194, 184, 184);
+    border-radius: 10px;
+    margin-right: 29px;
+      
+}
+
+h2{
+
+    font-size: 50px;
+    color: azure;
+}
+
+.box2 p{
+    font-size: small;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.box3{
+    
+    height: 50%;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px white;
+    margin-top: 26%;
+    margin-left: 27%;
+    position: absolute;
+}
+
+
+.box3 img{
+
+    height: 50%;
+    width: 100%;
+    border: 3px solid rgb(194, 184, 184);
+    border-radius: 10px;
+    margin-right: 29px;
+
+}
+h2{
+    font-size: 50px;
+    color: azure;
+}
+
+.box3 p{
+    font-size: small;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+.box4{
+    
+    height: 50%;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px white;
+    margin-top: 26%;
+    margin-left: 53%;
+    position: absolute;
+
+}
+.box4 img{
+    
+    height: 50%;
+    width: 100%;
+    border: 3px solid rgb(194, 184, 184);
+    border-radius: 10px;
+    margin-right: 29px;
+      
+}
+
+h2{
+
+    font-size: 45px;
+    color: azure;
+}
+h1{
+    font-size: medium;
+    color: azure
+}
+
+.box4 p{
+    font-size: small;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+.box5{
+    
+    height: 50%;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px white;
+    margin-top: 26%;
+    margin-left: 78%;
+    position: absolute;
+
+}
+.box5 img{
+    
+    height: 50%;
+    width: 100%;
+    border: 3px solid rgb(194, 184, 184);
+    border-radius: 10px;
+    margin-right: 29px;
+      
+}
+
+h2{
+
+    font-size: 45px;
+    color: azure;
+}
+h1{
+    font-size: medium;
+    color: azure;
+}
+.box5 p{
+    font-size: small;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
